@@ -20,7 +20,7 @@ if __name__ == "__main__":
     # canvas = tk.Canvas(root, width=640, height=440, bg='#6872f4')
     # canvas.pack(side=tk.LEFT)
 
-    lable1 = tk.Label(root, text="branch2 remote ", justify='center')
+    lable1 = tk.Label(root, text="branch2 remote br5 ", justify='center')
     lable1.pack()
 
 
